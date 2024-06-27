@@ -2,7 +2,7 @@
 
 ## Vereisten 
 
-Ik verwacht dat volgende software reeds geïnstalleerd is:
+Deze software is nodig
 - NodeJS
 - Yarn
 - MySQL Community Server
@@ -11,6 +11,7 @@ Ik verwacht dat volgende software reeds geïnstalleerd is:
 
 - yarn install
 - .env met uw gegevens:
+
 NODE_ENV=development
 DATABASE_HOST=vichogent.be
 DATABASE_USERNAME=SDP2-2324-G14
