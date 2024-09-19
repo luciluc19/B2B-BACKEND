@@ -10,17 +10,8 @@ Deze software is nodig
 ## Opstarten 
 
 - yarn install
-- .env met uw gegevens:
 
-NODE_ENV=development
-DATABASE_HOST=vichogent.be
-DATABASE_USERNAME=SDP2-2324-G14
-DATABASE_PASSWORD=groep14ww
-DATABASE_NAME=SDP2_2324_DB_G14
-DATABASE_PORT=40058
-AUTH_JWT_SECRET=eenveeltemoeilijksecretdatniemandooitzalradenandersisdesitegehacked
-APP_PASSWORD=nyfv hznw bwiq pqod
-APP_EMAIL=delawarereset@gmail.com
+
 - yarn start
 
 ## Testen
